@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////////
+Program: 				A 99 line topology optimization code written in MATLAB
+Developed by: 	Ole Sigmund
+Language:				MATLAB
+Source:					https://www.topopt.mek.dtu.dk/Apps-and-software/A-99-line-topology-optimization-code-written-in-MATLAB
+
+	This program is converted to C++.
+
+Created by:		Mohamed Imran Peer Mohamed
+Email:				mrmdimran95@gmail.com
+Language:		  C++
+
+///////////////////////////////////////////////////////////////////////////////
+Linear System Solver
+
+						Copyright Gunter Winkler 2004 - 2007.
+     Distributed under the Boost Software License, Version 1.0.
+		 		(See accompanying file LICENSE_1_0.txt or copy at
+						http://www.boost.org/LICENSE_1_0.txt)
+        authors: Gunter Winkler <guwi17 at gmx dot de>
+								Konstantin Kutzkow
+
+     This code is modified by
+		 				Mohamed Imran Peer Mohamed
+
+///////////////////////////////////////////////////////////////////////////////
+
+Required Library:
+		Boost, Qt
+
+Developed and Tested on Ubuntu 18.04
