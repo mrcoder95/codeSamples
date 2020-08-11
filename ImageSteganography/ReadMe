@@ -1,0 +1,37 @@
+Program: 				Image Steganography
+Created by:			Mohamed Imran Peer Mohamed
+Email:					mrmdimran95@gmail.com
+Language:		  	C++
+
+
+Required Library:
+		Qt (Open Source - License)
+
+Developed and Tested on Ubuntu 18.04
+
+The Application can encrypt and decrypt the information in the image in English and German.
+
+Procedure:
+  * To Encrypt
+      1. Load the Image.
+      2. Select the Language to Encrypt.
+      3. Enter the Text in text box.
+      4. Optional: Alter the starting index within allowed limits. The limit is the maximum number of character that can be encrypted in the image. It is displayed as Number of Characters.
+      5. Select Encrypt and Save.
+      6. Enter the Location and Output Image Name in the dialog box.
+      
+  * To Decrypt
+      1. Load the Image.
+      2. Select the Language used to Encrypt.
+      3. Optional: Enetr the starting index used during encryption (Starting Index used during Encryption is mandatory).
+      4. Select Decrypt.
+      5. Decrypted Text will be available in the text box.
+      
+Note:
+  * Starting Index
+    Starting Index used during encryption must be provided during decryption else the information cannot be decrypted.
+  * Language
+    The Language used during encryption must be selected during decryption else the information cannot be decrypted.
+    
+For any issues, report to Email || Github.
+      
