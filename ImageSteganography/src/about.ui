@@ -21,7 +21,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>C:/Users/Music/Desktop/ico/About.ico</normaloff>C:/Users/Music/Desktop/ico/About.ico</iconset>
+    <normaloff>about.ico</normaloff>about.ico</iconset>
   </property>
   <widget class="QLabel" name="label">
    <property name="geometry">

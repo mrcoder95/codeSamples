@@ -15,6 +15,7 @@ MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
+    this->setWindowIcon(QIcon("main.ico"));
     ui->setupUi(this);
 
     // Set Initialize Parameters

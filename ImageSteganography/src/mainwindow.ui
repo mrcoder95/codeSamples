@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>C:/Users/Music/Desktop/ico/2.ico</normaloff>C:/Users/Music/Desktop/ico/2.ico</iconset>
+    <normaloff>main.ico</normaloff>main.ico</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout_3">
@@ -261,7 +261,7 @@
      <x>0</x>
      <y>0</y>
      <width>1014</width>
-     <height>26</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>

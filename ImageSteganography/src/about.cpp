@@ -11,6 +11,9 @@ about::about(QWidget *parent) :
     ui(new Ui::about)
 {
     ui->setupUi(this);
+
+    this->setWindowIcon(QIcon("about.ico"));
+
     this->setFixedSize(480, 280);
 }
 
